@@ -1,2 +1,1 @@
-This project is a work in progress
-# alx-pre_course
+My first readme
